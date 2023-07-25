@@ -1,0 +1,34 @@
+﻿[
+    {
+        "name": "Smartphones",
+        "alias": "smartphones"
+    },
+    {
+        "name": "Notebooks",
+        "alias": "notebooks"
+    },
+    {
+        "name": "Acessórios",
+        "alias": "acessorios"
+    },
+    {
+        "name": "Roupas",
+        "alias": "roupas"
+    },
+    {
+        "name": "Calçados",
+        "alias": "calcados"
+    },
+    {
+        "name": "Utensílios",
+        "alias": "utensilios"
+    },
+    {
+        "name": "Livros",
+        "alias": "livros"
+    },
+    {
+        "name": "Câmeras",
+        "alias": "cameras"
+    }
+]
